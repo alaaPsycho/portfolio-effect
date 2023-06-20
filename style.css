@@ -1083,7 +1083,12 @@ color: var(--main);
 /*footer*/
 @media screen and (max-width:768PX) {
         html{
-            font-size: 55%;
+         font-size: 55%;
+	overflow-x: hidden;
+
         }
+	body{
+		padding:0 2rem
+	}
         
        }
