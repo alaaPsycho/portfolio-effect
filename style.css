@@ -975,7 +975,7 @@ color: var(--white);
  align-items: center;
 }
 .swiper {
-	max-width: 60rem;
+	max-width: 70rem;
 	width: 100%;
 	padding-bottom: 5rem !important;
 }
@@ -983,8 +983,8 @@ color: var(--white);
 .swiper-slide {
 	background-position: center;
 	background-size: cover;
-	width: 32rem !important;
-	height: 20rem !important;
+	width: 36rem !important;
+	height: 24rem !important;
 	overflow: hidden;
 	border-radius: .8rem;
 }
