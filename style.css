@@ -1081,10 +1081,9 @@ color: var(--main);
   font-size: 1.4rem;
 }
 /*footer*/
-@media screen and (max-width:868PX) {
+@media screen and (max-width:768PX) {
         html{
-         font-size: 55%;
-	overflow-x: hidden;
+         font-size: 50%;
 
         }
 
