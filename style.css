@@ -338,7 +338,7 @@ display: none; }
   .hero button.down{
     position: absolute;
    bottom: 7rem;
-   left: 95%;
+   left: 90%;
    transform: translateX(-50%);
    background-color: transparent;
    animation: down 1s linear both infinite;
@@ -975,7 +975,7 @@ color: var(--white);
  align-items: center;
 }
 .swiper {
-	max-width: 70rem;
+	max-width: 60rem;
 	width: 100%;
 	padding-bottom: 5rem !important;
 }
